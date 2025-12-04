@@ -1,1 +1,8 @@
 # simulador-rv32i
+
+Simulador do processador Risc-V usando o set de instruções rv32i.
+
+Trabalho prático para o curso de Ciência da Computação.
+
+Bibliotecas necessárias:
+- ctypes
