@@ -1,3 +1,4 @@
+import ctypes
 from Registradores import Registradores
 
 class CPU:
